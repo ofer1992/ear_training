@@ -1,0 +1,585 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extbook
+\use_default_options true
+\begin_modules
+lilypond
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing double
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\rightmargin 1in
+\bottommargin 1.5in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+EAR TRAINING
+\begin_inset Newline newline
+\end_inset
+
+BASIC INSTRUCTION IN MELODY AND RHYTHM READING
+\begin_inset Newline newline
+\end_inset
+
+MELODY READING
+\end_layout
+
+\begin_layout Author
+JÖRGEN JERSILD
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+PREFACE
+\end_layout
+
+\begin_layout Chapter*
+SUGGESTION FOR THE TEACHER
+\end_layout
+
+\begin_layout Standard
+The instructor who intends to use this manual should realize that the indicated
+ procedure must be adjusted to the student's qualifications.
+ If the rate of progress is too rapid, the student's musical confidence
+ might suffer.
+ On the other hand, a procedure which utilizes superfluous methods and devices
+ might also hamper the student's development.
+ Appropriate basic teaching procedures should be planned in the beginning
+ of the course.
+ This should be done by thoroughly testing the student's natural talent
+ and technical skill, thereby determining the components of his inherent
+ musical ability.
+ As a consequence of such a testing procedure, a suitable instructional
+ approache might be found.
+ 
+\end_layout
+
+\begin_layout Standard
+The testing should cover:
+\end_layout
+
+\begin_layout Enumerate
+
+\shape italic
+Knowledge of notation
+\emph on
+ - key signatures and the ability to recognize modulations, etc.
+\end_layout
+
+\begin_layout Enumerate
+Ability to 
+\emph on
+read and comprehend note symbols as a whole
+\emph default
+, i.e.
+ determining the modes of broken triads and chords, and recognizing familiar
+ melodies from visual notation.
+\end_layout
+
+\begin_layout Enumerate
+Ability to 
+\emph on
+play by ear
+\emph default
+ - reproducing a familiar melody in unison as well as harmonized; defferentiatio
+n of 
+\emph on
+harmonic sensitivity
+\emph default
+.
+ (This test might include the playing by the teacher of a familiar melody
+ in various harmonizations, among which is the original plus a variety of
+ other arrangements.)
+\end_layout
+
+\begin_layout Enumerate
+Capacity for 
+\emph on
+aural discrimination;
+\emph default
+ ability to sing or play a melodic pattern demonstrated by the teacher.
+\end_layout
+
+\begin_layout Enumerate
+Ability to 
+\emph on
+identify
+\emph default
+ a played chord or phrase as 
+\emph on
+major or minor
+\emph default
+.
+\end_layout
+
+\begin_layout Enumerate
+Skill in 
+\emph on
+rhythmic reading
+\emph default
+, i.e.
+ reading patterns without pitch, then combining these with stepwise motion
+ '(see 
+\emph on
+Manual of Rhythm Reading
+\emph default
+).
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+Melody reading ability
+\emph default
+, i.e reading examples which contain few rhythmic problems; then examples
+ combining pitch and rhythm of progressive difficulty.
+\end_layout
+
+\begin_layout Standard
+The composite results of these tests should be evaluated.
+ If point 1, for example, indicates lack of basic orientation, this fact
+ should be considered in the final conclusions of the tests of point 7.
+ Points 3 and 4 which demonstrate spontaneous musical ability should then
+ be given full attention, etc.
+ The material in the sections 
+\begin_inset Quotes eld
+\end_inset
+
+Exercises
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+List of References from Musical Literature
+\begin_inset Quotes erd
+\end_inset
+
+ might be used for such testing.
+ During the course, similar tests should be constructed in order to control
+ the effectiveness of the procedure.
+\end_layout
+
+\begin_layout Standard
+This manual is divided into three main section:
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+the text
+\emph default
+ (
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Page reference
+\end_layout
+
+\end_inset
+
+) which demonstrates the procedural plan and should be thought of as a basis
+ for the teacher's instruction
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+Excercises I and II (
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+Page reference
+\end_layout
+
+\end_inset
+
+)
+\emph default
+ which constitue material for the outside-of-class preperations of the students
+\end_layout
+
+\begin_layout Enumerate
+the concluding 
+\emph on
+List of References from Musical Literature 
+\emph default
+(
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Page reference
+\end_layout
+
+\end_inset
+
+) which consists of appropriate reading material.
+\end_layout
+
+\begin_layout Standard
+The reference examples are arranged in groups corresponding to various stages
+ of development and should be used as sight-reading material throughout
+ the course.
+ They should also serve as metrial for outside-of-class assignment and individua
+l practice.
+\end_layout
+
+\begin_layout Standard
+In the text, the following should be noted.
+ During the period in which the above tests are made, the initial procedure
+ should stress theoretical orientation (Chapter I).
+ This is followed by the primary training in melody reading.
+ Melody reading is divided into four basic categories: 
+\emph on
+Stepwise Motion 
+\emph default
+(Ch.
+ II); 
+\emph on
+Broken Triads
+\emph default
+ (Ch.
+ III and V, section 
+\emph on
+a-f
+\emph default
+); 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Zig-Zag
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ 
+\emph on
+Stepwise Motion, 
+\emph default
+i.e seconds and thirds cobined (Ch.
+ IV); and 
+\begin_inset Quotes eld
+\end_inset
+
+Zig-Zag
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Broken Triads providing the intervals of thirds, fourths, fifths and sixths
+\emph default
+ (Ch.
+ V, section 
+\emph on
+h-m
+\emph default
+).
+\end_layout
+
+\begin_layout Standard
+The succeeding chapters (VI-XIII) contain the treatment of various intervals
+ in consecutive order.
+ The headings of these chapters, however , do not imply that the intervallic
+ leaps in question should be studied as isolated units (refer to the Preface).
+ Rather, it has eben the author's intention to demonstrate the variability
+ of the interval conditioned by its tonal context, i.e.
+ its capacity of 
+\begin_inset Quotes eld
+\end_inset
+
+stretching
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+shrinking
+\begin_inset Quotes erd
+\end_inset
+
+ according to its function.
+ The example of the two melodic patterns below, both of which contain a
+ descending fourth (A-E), serves as an illustration of this point:
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Missing analysis brackets
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex LilyPond
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+relative c' {
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+time 2/4 <a a'>^"1" e' | a e  a8 b cis d4 e cis 
+\backslash
+bar "||" 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex LilyPond
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+relative c' {
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+time 2/4 <a ees''>^"2" c'8 a | e f 
+\backslash
+bar "||" 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If sung or played on the violin (instead of the piano), the interval of
+ the 4th in example 1 will obviously be larger than the distance between
+ the same two notes in such a context as in example 2.
+ In the latter, the 
+\emph on
+E 
+\emph default
+functions as a leading tone to the dominant and will consequently be higher.
+ At the same time, the second example demonstrates how musically misleading
+ it is to think 
+\begin_inset Quotes eld
+\end_inset
+
+a 4th downward
+\begin_inset Quotes erd
+\end_inset
+
+ from an 
+\emph on
+A 
+\emph default
+in order to find the tone 
+\emph on
+E
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+The chapter in 
+\emph on
+Functional Progressions 
+\emph default
+(CH.
+ XIV) concludes the text.
+ Nevertheless, the included formulae should be practiced in coordination
+ with the rest of the material (compare Ch.
+ II, section 
+\emph on
+a 
+\emph default
+and 
+\emph on
+f
+\emph default
+).
+\end_layout
+
+\begin_layout Standard
+The ancillary methods indicated in the text should only be used when necessary.
+ If, for example, the reading of stepwise motion (Exercise I, Groups 3 and
+ 4, pp.
+ 34-38) shows few erros, the supporting device of the tetrachord might be
+ used only cursorily.
+ This may begin, for example, with Chapter II, section 
+\emph on
+j 
+\emph default
+and 
+\emph on
+k
+\emph default
+.
+\end_layout
+
+\begin_layout Chapter
+THEORETICAL ORIENTATION
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex LilyPond
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+relative c' {
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+new GrandStaff  <<
+\end_layout
+
+\begin_layout Plain Layout
+
+    
+\backslash
+new Staff { 
+\backslash
+clef "treble" <e g c> <f a c> <d g b> <e g c> 
+\backslash
+bar "||"}
+\end_layout
+
+\begin_layout Plain Layout
+
+    
+\backslash
+new Staff { 
+\backslash
+clef "bass" c_"T" f,_"S" g_"D" c_"T" }
+\end_layout
+
+\begin_layout Plain Layout
+
+  >>
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
